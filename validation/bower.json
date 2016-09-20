@@ -1,0 +1,17 @@
+{
+  "name": "validation",
+  "version": "1.0.0",
+  "homepage": "https://github.com/minhslim/angular_demo",
+  "authors": [
+    "minhslim <vince.pham.149@gmail.com>"
+  ],
+  "description": "form validation",
+  "license": "MIT",
+  "devDependencies": {
+    "angular-formly": "~7.1.1",
+    "angular-formly-templates-bootstrap": "~6.0.0",
+    "AngularJS": "angular-latest#~1.4.5",
+    "api-check": "~7.5.0",
+    "bootstrap": "~3.3.5"
+  }
+}
